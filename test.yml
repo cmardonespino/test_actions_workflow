@@ -1,2 +1,2 @@
-- name: Automatic Revert Action Two
+- name: Automatic Revert Action Three
   uses: srt32/revert@v0.0.1
